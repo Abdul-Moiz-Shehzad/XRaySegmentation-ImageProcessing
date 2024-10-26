@@ -1,4 +1,3 @@
-# XRaySegmentation-ImageProcessing
 # Body Segmentation in Chest X-Ray Images
 
 This repository focuses on body segmentation in chest X-ray images using image processing techniques. The project aims to isolate and extract the body part from X-ray images, providing a clear representation against a transparent background. Key tasks include:
