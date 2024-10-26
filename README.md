@@ -8,7 +8,6 @@ This repository focuses on body segmentation in chest X-ray images using image p
 
 ## Body Segmentation
 - Utilizing techniques such as thresholding, edge detection, or contour finding to identify and isolate the body part.
-- Implementing advanced segmentation algorithms like watershed or region-growing methods, if necessary.
 
 ## Output Generation
 - Extracting the segmented body part and saving it as an image with a transparent background for easy integration into further analysis or visualization.
